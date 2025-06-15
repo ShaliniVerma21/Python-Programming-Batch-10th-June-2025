@@ -134,12 +134,6 @@ These mini-projects will boost your confidence and make your portfolio stand out
 
 ---
 
-`#PythonProgramming` `#PythonForBeginners` `#DataAnalyticsCourse` `#PythonProjects`  
-`#PythonForDataAnalysts` `#LearnPython2025` `#PythonAssignments` `#PythonBatch10June`  
-`#PythonCourse2025` `#FullStackPython` `#PythonRepository` `#PythonDeveloperRoadmap`
-
----
-
 ## 📌 License
 
 This repository is for educational use only.  
